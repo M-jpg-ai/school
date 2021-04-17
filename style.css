@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+
+nav {
+    position: fixed;
+    height:50px;
+    width: 1500px;
+}
